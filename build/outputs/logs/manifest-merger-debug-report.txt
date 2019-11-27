@@ -1,0 +1,333 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:2:1-97:12
+MERGED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\ec1d86b9a1c3f36b085983db2b9a22cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\german\.gradle\caches\transforms-2\files-2.1\5d704505321d95b1b4379f95214e7214\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\9013124dff4f65e5f3d543da0dabbe63\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\d02438771a029c0f7db8828d454e205f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\8fd31768e2d03f17a8a36b0034885db6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\4547509a146f75b8afa339a8e09cadc9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\c19c51bf59528e196ca074b9292db969\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\29cd0502b1a215ce15b39ae746b59356\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\45d6710af42c49046fb632d91692be07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\12d08ced9cca831dc1a1cfc7b10f50d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\409065045f781a09fb0727761ef154a6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\3c4da4844ea8705771764ca835be82c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\a5f11cc8dd74d66c8d05ef4964d21028\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\401abcdd823cf8b5166d77ffd7f17721\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\04fc7b3e2315789676733641c7a6adfe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\6eaa0894e7a651cd3e977cb4089c4e06\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\178d04adf68655275f663f3d87f7e2df\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\6d38b158c4dafd0fd27c60d9603f7bb6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\e8964b72bb3332c48464c4648fa60ac4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\german\.gradle\caches\transforms-2\files-2.1\27f50258a7a06090cb3bc9d57d0fbe75\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\059c88eaa89fef06ccb19ecb17e045bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\327245115436171104b74fd5c8bb7672\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\09ea433e71a3e4b5c21eb4b34c6ffadb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\german\.gradle\caches\transforms-2\files-2.1\4f29212beb2b31e9740c19856f7211e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\f376a9547557fc9a33403f0d6e8ce54d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\german\.gradle\caches\transforms-2\files-2.1\f55ec85c69ac31748c7a562ae56fb1b1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\german\.gradle\caches\transforms-2\files-2.1\c6cf2f1db0a681d48a09abfc1b4d292e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\german\.gradle\caches\transforms-2\files-2.1\9d6b11c14cae71aa5a60aabbebf778a5\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:2:1-97:12
+	package
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:4:5-44
+		INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:2:1-97:12
+		INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:2:1-97:12
+		INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:5:5-45
+supports-screens
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:7:5-12:40
+	android:largeScreens
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:9:9-36
+	android:smallScreens
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:11:9-36
+	android:normalScreens
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:10:9-37
+	android:xlargeScreens
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:12:9-37
+	android:anyDensity
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:8:9-34
+uses-feature#0x00030000
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:14:5-54
+	android:glEsVersion
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:14:19-51
+uses-feature#android.hardware.vulkan
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:16:9-47
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:19:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:14:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:20:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:15:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:20:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:22:5-24:36
+MERGED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:12:5-60
+MERGED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:12:5-60
+	android:required
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:24:9-33
+		MERGED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:23:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:26:9-57
+uses-feature#android.hardware.camera.front
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:31:5-33:36
+	android:required
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:33:9-33
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:32:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:34:5-36:36
+	android:required
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:36:9-33
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:35:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:37:5-39:36
+	android:required
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:39:9-33
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:38:9-72
+application
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:41:5-95:19
+MERGED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:19:5-30:19
+MERGED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:19:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\german\.gradle\caches\transforms-2\files-2.1\5d704505321d95b1b4379f95214e7214\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\german\.gradle\caches\transforms-2\files-2.1\5d704505321d95b1b4379f95214e7214\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\178d04adf68655275f663f3d87f7e2df\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\178d04adf68655275f663f3d87f7e2df\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\6d38b158c4dafd0fd27c60d9603f7bb6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\6d38b158c4dafd0fd27c60d9603f7bb6\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\178d04adf68655275f663f3d87f7e2df\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:43:9-41
+	android:debuggable
+		ADDED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:19:18-44
+	android:icon
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:42:9-40
+	android:theme
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:44:9-50
+activity#com.gerarje.MercadoBursatilRA.ui.LoginActivity
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:45:9-52:20
+	android:theme
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:46:13-44
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:45:19-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:50:27-74
+activity#com.gerarje.MercadoBursatilRA.ui.MenuActivity
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:54:9-56:47
+	android:theme
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:55:13-44
+activity#com.gerarje.MercadoBursatilRA.ui.ResourcesActivity
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:57:9-59:47
+	android:theme
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:59:13-44
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:58:13-49
+activity#com.gerarje.MercadoBursatilRA.ui.SemanticoActivity
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:60:9-62:47
+	android:theme
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:62:13-44
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:61:13-49
+activity#com.gerarje.MercadoBursatilRA.ui.CreditosActivity
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:63:9-65:47
+	android:theme
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:65:13-44
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:64:13-48
+activity#com.gerarje.MercadoBursatilRA.ui.UnityPlayerActivity
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:67:9-81:20
+	android:screenOrientation
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:73:13-50
+	android:label
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:71:13-45
+	android:launchMode
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:72:13-44
+	android:hardwareAccelerated
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:70:13-48
+	android:configChanges
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:69:13-194
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:68:13-51
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:75:13-77:40
+	android:value
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:77:17-37
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:76:17-57
+meta-data#android.notch_support
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:78:13-80:40
+	android:value
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:80:17-37
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:79:17-53
+meta-data#unity.build-id
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:83:9-85:68
+	android:value
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:85:13-65
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:84:13-42
+meta-data#unity.splash-mode
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:86:9-88:33
+	android:value
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:88:13-30
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:87:13-45
+meta-data#unity.splash-enable
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:89:9-91:36
+	android:value
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:91:13-33
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:90:13-47
+meta-data#notch.config
+ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:92:9-94:50
+	android:value
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:94:13-47
+	android:name
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:93:13-40
+uses-sdk
+INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml
+INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml
+MERGED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:8:5-10:41
+MERGED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\ec1d86b9a1c3f36b085983db2b9a22cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\ec1d86b9a1c3f36b085983db2b9a22cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\german\.gradle\caches\transforms-2\files-2.1\5d704505321d95b1b4379f95214e7214\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\german\.gradle\caches\transforms-2\files-2.1\5d704505321d95b1b4379f95214e7214\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\9013124dff4f65e5f3d543da0dabbe63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\9013124dff4f65e5f3d543da0dabbe63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\d02438771a029c0f7db8828d454e205f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\d02438771a029c0f7db8828d454e205f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\8fd31768e2d03f17a8a36b0034885db6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\8fd31768e2d03f17a8a36b0034885db6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\4547509a146f75b8afa339a8e09cadc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\4547509a146f75b8afa339a8e09cadc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\c19c51bf59528e196ca074b9292db969\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\c19c51bf59528e196ca074b9292db969\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\29cd0502b1a215ce15b39ae746b59356\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\29cd0502b1a215ce15b39ae746b59356\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\45d6710af42c49046fb632d91692be07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\45d6710af42c49046fb632d91692be07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\12d08ced9cca831dc1a1cfc7b10f50d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\12d08ced9cca831dc1a1cfc7b10f50d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\409065045f781a09fb0727761ef154a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\409065045f781a09fb0727761ef154a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\3c4da4844ea8705771764ca835be82c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\3c4da4844ea8705771764ca835be82c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\a5f11cc8dd74d66c8d05ef4964d21028\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\a5f11cc8dd74d66c8d05ef4964d21028\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\401abcdd823cf8b5166d77ffd7f17721\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\401abcdd823cf8b5166d77ffd7f17721\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\04fc7b3e2315789676733641c7a6adfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\04fc7b3e2315789676733641c7a6adfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\6eaa0894e7a651cd3e977cb4089c4e06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\6eaa0894e7a651cd3e977cb4089c4e06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\178d04adf68655275f663f3d87f7e2df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\178d04adf68655275f663f3d87f7e2df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\6d38b158c4dafd0fd27c60d9603f7bb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\6d38b158c4dafd0fd27c60d9603f7bb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\e8964b72bb3332c48464c4648fa60ac4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\e8964b72bb3332c48464c4648fa60ac4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\german\.gradle\caches\transforms-2\files-2.1\27f50258a7a06090cb3bc9d57d0fbe75\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\german\.gradle\caches\transforms-2\files-2.1\27f50258a7a06090cb3bc9d57d0fbe75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\059c88eaa89fef06ccb19ecb17e045bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\059c88eaa89fef06ccb19ecb17e045bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\327245115436171104b74fd5c8bb7672\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\327245115436171104b74fd5c8bb7672\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\09ea433e71a3e4b5c21eb4b34c6ffadb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\09ea433e71a3e4b5c21eb4b34c6ffadb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\german\.gradle\caches\transforms-2\files-2.1\4f29212beb2b31e9740c19856f7211e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\german\.gradle\caches\transforms-2\files-2.1\4f29212beb2b31e9740c19856f7211e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\f376a9547557fc9a33403f0d6e8ce54d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\german\.gradle\caches\transforms-2\files-2.1\f376a9547557fc9a33403f0d6e8ce54d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\german\.gradle\caches\transforms-2\files-2.1\f55ec85c69ac31748c7a562ae56fb1b1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\german\.gradle\caches\transforms-2\files-2.1\f55ec85c69ac31748c7a562ae56fb1b1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\german\.gradle\caches\transforms-2\files-2.1\c6cf2f1db0a681d48a09abfc1b4d292e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\german\.gradle\caches\transforms-2\files-2.1\c6cf2f1db0a681d48a09abfc1b4d292e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\german\.gradle\caches\transforms-2\files-2.1\9d6b11c14cae71aa5a60aabbebf778a5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\german\.gradle\caches\transforms-2\files-2.1\9d6b11c14cae71aa5a60aabbebf778a5\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml
+INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml
+		ADDED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:17:22-78
+meta-data#com.google.ar.core
+ADDED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:22:9-24:40
+	android:value
+		ADDED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:23:13-46
+uses-library#com.osterhoutgroup.api.ext
+ADDED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:27:9-29:40
+	android:required
+		ADDED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\german\.gradle\caches\transforms-2\files-2.1\2540cd8226fb2387e0eefa3d74b88783\AndroidManifest.xml:28:13-54
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\german\Desktop\Export\MercadoBursatilRA\src\main\AndroidManifest.xml:2:1-97:12 reason: com.vuforia.engine.ext requested WRITE_EXTERNAL_STORAGE
